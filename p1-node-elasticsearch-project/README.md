@@ -1,9 +1,9 @@
-#Node-Elasticsearch Project
+# Node-Elasticsearch Project
 
 Sample Node.js project that use Elasticsearch.
 It shows how to setup `Elasticsearch` development in `Node.js`.
 
-##Implemented Stuff
+## Implemented Stuff
 + Setup node.js project
 + Connect to Elasticsearch
 + Create Index
