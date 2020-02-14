@@ -1,0 +1,16 @@
+{
+  "name": "p2-integrate-elasticsearch-with-node",
+  "version": "1.0.0",
+  "description": "Sample Node.js project that use Elasticsearch. It shows how to setup `Elasticsearch` development in `Node.js`.",
+  "main": "makeIndex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.2",
+    "elasticsearch": "^16.6.0",
+    "highland": "^2.13.5"
+  }
+}
