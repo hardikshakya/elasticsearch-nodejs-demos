@@ -1,3 +1,33 @@
+# Some of the important queries of elasticsearch (p0-all-commands)
+
+## Topics:
+
+- T1: Add New Node
+
+- T2: Managing Documents
+
+- T3: Mapping
+
+- T4: Analysis and Analyzers
+
+- T5: Introduction to Searching
+
+- T6: Term Level Queries
+
+- T7: Full Text Queries
+
+- T8: Adding Boolean Logic to Queries
+
+- T9: Joining Queries
+
+- T10: Controlling Query Results
+
+- T11: Aggregations
+
+- T12: Improving Search Results
+
+-------------------------------------------------------------------
+
 # Node-Elasticsearch Project (p1-node-elasticsearch-project)
 
 Sample Node.js project that use Elasticsearch.
